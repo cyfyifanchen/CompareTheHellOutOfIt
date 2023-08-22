@@ -1,3 +1,4 @@
-# CompareTheHellOutOf
+# CompareTheHellOutOfIt
  
-Tempor et duis tempor duis do excepteur. Minim eiusmod sunt veniam cillum nostrud sunt elit adipisicing. Nostrud deserunt eu laboris ipsum eu qui eiusmod qui incididunt. In voluptate id fugiat nisi velit labore cillum consequat cillum est eu. Ea magna nostrud in amet laboris. Ipsum nisi exercitation Lorem excepteur nisi voluptate non sint officia duis.
+## Prologue
+I've often wished to compile a comprehensive comparison of various frameworks because I've found existing resources lacking in terms of practicality and relevance. Many benchmarks or blogs on this topic seem outdated, making it cumbersome to search for up-to-date information every time. Instead of relying on frequent Google searches, I've contemplated the idea of creating my own reference resource.

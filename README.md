@@ -31,3 +31,11 @@ The term "Islands architecture" was popularized by Katie Sylor-Miller and Jason 
 ## Progressive Hydration
 ### tl;dr:
 In a server-rendered application, the server takes charge of generating the HTML for the current navigation. After successfully creating the HTML, which includes essential CSS styles and JSON data required for rendering the static user interface accurately, this data is transmitted to the client. Thanks to the server's role in markup generation, the client can efficiently parse this information and promptly display it on the screen, resulting in a rapid First Contentful Paint (FCP).
+
+> Delay loading javascript for less important parts of the page
+
+### Implementation
+
+### Pros and Cons
+
+### Frameworks
